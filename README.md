@@ -7,10 +7,15 @@ contains information about various restaurants,
 their ratings, cuisines, locations, and more. Your
 task is to perform EDA on this dataset and
 answer the following questions.
+
+
 **Dataset Link:**
 https://drive.google.com/file/d/1_IKmJW5wDHmP9pfw7lmHsHfKYE1WCw2I/view?usp=drive_link
+
+
 **Introduction:**
 **[Task instructions]**
+
 Use Python and libraries like Pandas,
 Matplotlib, and Seaborn for data
 manipulation and visualization.
@@ -20,7 +25,9 @@ When answering each question, provide
 visualizations (such as bar plots, scatter plots,
 etc.) whenever applicable to support your
 findings.
+
 **Tasks**
+
 1. What is the average rating of restaurants in the dataset?
 2. How many unique cities are represented in the dataset?
 3. Which city has the highest number of restaurants?
